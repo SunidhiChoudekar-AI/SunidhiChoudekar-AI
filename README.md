@@ -203,26 +203,26 @@ to infrastructure, remote sensing and intelligent agents.
 
 <td width="50%" valign="top">
 
-<h3>◈ GRAPH INTELLIGENCE</h3>
+<h3>◈ AutoCAD → AI Agents</h3>
 
-<strong>Graph-Based Sybil Attack Detection using GNN</strong>
+<strong>AutoCAD based Structural tables detection using YOLO</strong>
 
 
 
 <sub>
-A deep-learning approach to identifying suspicious
-patterns and coordinated behaviour in graph networks.
+A machine-learning approach to detecting scrutiny related structural
+tables from unstructured AutoCAD drawings.
 </sub>
 
 <br>
 
-<code>GNN</code>
-<code>Deep Learning</code>
-<code>Graph Analysis</code>
+<code>Object Detection</code>
+<code>Machine Learning</code>
+<code>OCR</code>
 
 <br>
 
-<a href="YOUR_GNN_REPOSITORY_URL">
+<a href="https://github.com/SunidhiChoudekar-AI/YOLO-Model-For-Table-Detection-in-AutoCAD-Drawings">
   → VIEW REPOSITORY
 </a>
 
