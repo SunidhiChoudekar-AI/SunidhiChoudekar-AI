@@ -10,7 +10,7 @@
   />
 </p>
 
-<br>
+
 
 <!-- A SOFT TRANSITION — keeps the two visuals connected -->
 
@@ -20,7 +20,7 @@
   </sub>
 </p>
 
-<br>
+
 
 <p align="center">
   <img
@@ -30,7 +30,7 @@
   />
 </p>
 
-<br>
+
 
 <!-- REAL TEXT — kept outside the artwork for accessibility/search -->
 
@@ -49,7 +49,7 @@
   </em>
 </p>
 
-<br>
+
 
 <!-- PERSONAL LINKS — LIVE / CLICKABLE, NOT AN IMAGE -->
 
@@ -132,7 +132,7 @@
      Ideas become experiments. Experiments become systems.
      ═════════════════════════════════════════════════════════════ -->
 
-<br><br>
+
 
 <p align="center">
   <sub>✦ STEP INTO THE WORKSPACE ✦</sub>
@@ -146,7 +146,7 @@
   <em>Where curiosity becomes something I can actually build.</em>
 </p>
 
-<br>
+
 
 <!-- THE LAB VISUAL -->
 
@@ -170,7 +170,7 @@
 Ideas become experiments. Experiments become systems.
 </strong>
 
-<br><br>
+
 
 I enjoy working on problems where
 <strong>AI, data, automation and software</strong>
@@ -193,7 +193,7 @@ to infrastructure, remote sensing and intelligent agents.
   </sub>
 </p>
 
-<br>
+
 
 
 <!-- ═════════════════════ PROJECT 01 + 02 ═════════════════════ -->
@@ -207,20 +207,20 @@ to infrastructure, remote sensing and intelligent agents.
 
 <strong>Graph-Based Sybil Attack Detection using GNN</strong>
 
-<br><br>
+
 
 <sub>
 A deep-learning approach to identifying suspicious
 patterns and coordinated behaviour in graph networks.
 </sub>
 
-<br><br>
+<br>
 
 <code>GNN</code>
 <code>Deep Learning</code>
 <code>Graph Analysis</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_GNN_REPOSITORY_URL">
   → VIEW REPOSITORY
@@ -235,7 +235,7 @@ patterns and coordinated behaviour in graph networks.
 
 <strong>AutoCAD → AI Agents → AR</strong>
 
-<br><br>
+
 
 <sub>
 A multi-agent intelligent system exploring how
@@ -243,13 +243,13 @@ infrastructure drawings can be transformed into
 interactive, real-world AR experiences.
 </sub>
 
-<br><br>
+<br>
 
 <code>Multi-Agent AI</code>
 <code>Computer Vision</code>
 <code>AR</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_INFRAVISION_REPOSITORY_URL">
   → VIEW PROJECT
@@ -272,7 +272,7 @@ interactive, real-world AR experiences.
 
 <strong>Satellite &amp; Environmental Analysis</strong>
 
-<br><br>
+
 
 <sub>
 Exploring AI-driven analysis of satellite imagery
@@ -280,13 +280,13 @@ for environmental patterns, water resources,
 change detection and real-world monitoring.
 </sub>
 
-<br><br>
+<br>
 
 <code>Remote Sensing</code>
 <code>Computer Vision</code>
 <code>Satellite Data</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_SATELLITE_REPOSITORY_URL">
   → VIEW PROJECT
@@ -301,7 +301,7 @@ change detection and real-world monitoring.
 
 <strong>Automatic Foley &amp; Soundtrack Generation</strong>
 
-<br><br>
+
 
 <sub>
 A prompt-driven system combining visual understanding
@@ -309,13 +309,13 @@ and generative audio to create Foley and soundtrack
 elements for video content.
 </sub>
 
-<br><br>
+<br>
 
 <code>CLIP</code>
 <code>Generative AI</code>
 <code>ElevenLabs</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_FOLEY_REPOSITORY_URL">
   → VIEW REPOSITORY
@@ -338,7 +338,7 @@ elements for video content.
 
 <strong>IoT Bridge Load &amp; Vibration Analysis</strong>
 
-<br><br>
+
 
 <sub>
 An IoT-based framework for monitoring bridge behaviour
@@ -346,13 +346,13 @@ through sensor data, vibration analysis and predictive
 insights.
 </sub>
 
-<br><br>
+<br>
 
 <code>IoT</code>
 <code>Data Analytics</code>
 <code>Predictive Analysis</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_SMARTBRIDGE_REPOSITORY_URL">
   → VIEW PROJECT
@@ -367,7 +367,7 @@ insights.
 
 <strong>Smart Job Tracker</strong>
 
-<br><br>
+
 
 <sub>
 A Java web application combining job scraping,
@@ -375,15 +375,15 @@ OTP authentication, database integration and
 automated email notifications.
 </sub>
 
-<br><br>
+<br>
 
 <code>Java</code>
 <code>Selenium</code>
 <code>Supabase</code>
 
-<br><br>
+<br>
 
-<a href="YOUR_JOB_TRACKER_REPOSITORY_URL">
+<a href="https://github.com/SunidhiChoudekar-AI/Java-SmartJobTracker">
   → VIEW REPOSITORY
 </a>
 
