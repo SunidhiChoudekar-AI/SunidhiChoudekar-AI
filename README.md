@@ -291,7 +291,7 @@ for research and self-improvement.
 <br>
 
 <a href="https://github.com/SunidhiChoudekar-AI/AI-based-Human-Cognitive-Thinking-Analyser">
-  → VIEW PROJECT
+  → VIEW REPOSITORY
 </a>
 
 </td>
@@ -319,13 +319,13 @@ interactive, real-world AR experiences.
 <br>
 
 <a href="YOUR_INFRAVISION_REPOSITORY_URL">
-  → VIEW PROJECT
+  → VIEW REPOSITORY
 </a>
 
 </td>
 
 </tr>
-</table>
+
 
 
 <!-- ═════════════════════ PROJECT 05 + 06 ═════════════════════ -->
@@ -393,7 +393,7 @@ insights.
 </td>
 
 </tr>
-
+</table>
 
 <br>
 
