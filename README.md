@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./assets/Sunidhi Choudekar_About.png"
+    src="./assets/AI Dreams and Creative Workspace.png"
     width="100%"
     alt="Sunidhi Choudekar — personal workspace"
   />
@@ -24,7 +24,7 @@
 
 <p align="center">
   <img
-    src="./assets/AI Dreams and Creative Workspace.png"
+    src="./assets/Sunidhi Choudekar_About.png"
     width="100%"
     alt="Sunidhi Choudekar — Technical Analyst, AI and Data Science"
   />
