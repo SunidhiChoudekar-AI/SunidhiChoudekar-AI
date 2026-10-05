@@ -228,6 +228,73 @@ tables from unstructured AutoCAD drawings.
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3>◈ AUTOMATION × SOFTWARE</h3>
+
+<strong>Smart Job Tracker</strong>
+
+
+
+<sub>
+A Java web application combining job scraping,
+OTP authentication, database integration and
+automated email notifications.
+</sub>
+
+<br>
+
+<code>Java</code>
+<code>Selenium</code>
+<code>Supabase</code>
+
+<br>
+
+<a href="https://github.com/SunidhiChoudekar-AI/Java-SmartJobTracker">
+  → VIEW REPOSITORY
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+<!-- ═════════════════════ PROJECT 03 + 04 ═════════════════════ -->
+
+<table width="100%" cellpadding="12" cellspacing="8">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>◈ Cognitivity + AI</h3>
+
+<strong>AI-based Cognitive thinking analyser</strong>
+
+
+
+<sub>
+Using behavioral analytics and AI, it generates personalized
+cognitive insights, strengths, and growth recommendations
+for research and self-improvement.
+</sub>
+
+<br>
+
+<code>AI</code>
+<code>Cognitive thinking</code>
+<code>Behavioral Pattern</code>
+
+<br>
+
+<a href="https://github.com/SunidhiChoudekar-AI/AI-based-Human-Cognitive-Thinking-Analyser">
+  → VIEW PROJECT
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -261,39 +328,10 @@ interactive, real-world AR experiences.
 </table>
 
 
-<!-- ═════════════════════ PROJECT 03 + 04 ═════════════════════ -->
+<!-- ═════════════════════ PROJECT 05 + 06 ═════════════════════ -->
 
 <table width="100%" cellpadding="12" cellspacing="8">
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>◈ REMOTE INTELLIGENCE</h3>
-
-<strong>Satellite &amp; Environmental Analysis</strong>
-
-
-
-<sub>
-Exploring AI-driven analysis of satellite imagery
-for environmental patterns, water resources,
-change detection and real-world monitoring.
-</sub>
-
-<br>
-
-<code>Remote Sensing</code>
-<code>Computer Vision</code>
-<code>Satellite Data</code>
-
-<br>
-
-<a href="YOUR_SATELLITE_REPOSITORY_URL">
-  → VIEW PROJECT
-</a>
-
-</td>
-
 
 <td width="50%" valign="top">
 
@@ -323,14 +361,8 @@ elements for video content.
 
 </td>
 
-</tr>
-</table>
 
 
-<!-- ═════════════════════ PROJECT 05 + 06 ═════════════════════ -->
-
-<table width="100%" cellpadding="12" cellspacing="8">
-<tr>
 
 <td width="50%" valign="top">
 
@@ -360,37 +392,7 @@ insights.
 
 </td>
 
-
-<td width="50%" valign="top">
-
-<h3>◈ AUTOMATION × SOFTWARE</h3>
-
-<strong>Smart Job Tracker</strong>
-
-
-
-<sub>
-A Java web application combining job scraping,
-OTP authentication, database integration and
-automated email notifications.
-</sub>
-
-<br>
-
-<code>Java</code>
-<code>Selenium</code>
-<code>Supabase</code>
-
-<br>
-
-<a href="https://github.com/SunidhiChoudekar-AI/Java-SmartJobTracker">
-  → VIEW REPOSITORY
-</a>
-
-</td>
-
 </tr>
-</table>
 
 
 <br>
