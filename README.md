@@ -404,7 +404,7 @@ insights.
   <strong>✦ WHAT I'M CURIOUS ABOUT ✦</strong>
 </p>
 
-<br>
+
 
 <table width="94%" align="center">
 <tr>
@@ -413,7 +413,7 @@ insights.
 
 <strong>AI &amp; ML</strong>
 
-<br><br>
+
 
 <sub>
 Learning systems<br>
@@ -427,7 +427,7 @@ Prediction
 
 <strong>GENAI</strong>
 
-<br><br>
+
 
 <sub>
 LLMs<br>
@@ -441,7 +441,7 @@ Agentic systems
 
 <strong>VISION &amp; DATA</strong>
 
-<br><br>
+
 
 <sub>
 Computer Vision<br>
@@ -455,7 +455,7 @@ Data Analytics
 
 <strong>REAL WORLD</strong>
 
-<br><br>
+
 
 <sub>
 Infrastructure<br>
@@ -484,7 +484,7 @@ Automation
 “What if we automated this?”
 </strong>
 
-<br><br>
+<br>
 
 That's usually where the interesting part begins.
 
